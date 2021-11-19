@@ -1,0 +1,7 @@
+@media print
+{
+body * { visibility: hidden; }
+
+.print2 * { visibility: visible; }
+.print2 { position: absolute; width: 100%;margin-top: -2670px; }
+}

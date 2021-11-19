@@ -1,0 +1,263 @@
+[11-Nov-2020 12:56:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 12:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 12:56:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 12:56:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 13:13:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 13:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 13:13:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 13:13:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 13:17:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 13:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 13:17:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 13:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 13:19:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 13:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[11-Nov-2020 13:19:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[11-Nov-2020 13:19:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[12-Nov-2020 07:13:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[12-Nov-2020 07:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[12-Nov-2020 07:13:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/raisiyks/public_html/Booking/Connection.php on line 6
+[12-Nov-2020 07:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/raisiyks/public_html/Booking/index.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/index.php on line 72
+[14-Nov-2020 08:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/raisiyks/public_html/Booking/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/admin.php on line 30
+[14-Nov-2020 08:21:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/raisiyks/public_html/Booking/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/admin.php on line 30
+[14-Nov-2020 08:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on string in /home/raisiyks/public_html/Booking/admin.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/raisiyks/public_html/Booking/admin.php on line 30
+[11-Mar-2021 13:08:18 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit1.php on line 85
+[12-Mar-2021 08:14:39 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit1.php on line 85
+[12-Mar-2021 11:38:55 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit1.php on line 85
+[20-Apr-2021 07:59:30 UTC] PHP Fatal error:  Call to undefined function alert() in /home/raisiyks/public_html/Booking/admin.php on line 32
+[20-Apr-2021 07:59:46 UTC] PHP Fatal error:  Call to undefined function alert() in /home/raisiyks/public_html/Booking/admin.php on line 32
+[20-Apr-2021 08:00:21 UTC] PHP Fatal error:  Call to undefined function alert() in /home/raisiyks/public_html/Booking/admin.php on line 32
+[20-Apr-2021 08:02:26 UTC] PHP Fatal error:  Call to undefined function alert() in /home/raisiyks/public_html/Booking/admin.php on line 32
+[20-Apr-2021 10:00:05 UTC] PHP Fatal error:  Call to undefined method mysqli_result::mysqli_fetch_array() in /home/raisiyks/public_html/Booking/admin.php on line 174
+[29-Apr-2021 12:35:55 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit1.php on line 85
+[30-Apr-2021 14:48:34 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[30-Apr-2021 14:48:34 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#8 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#9 {main}
+  thrown in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[30-Apr-2021 14:48:34 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[30-Apr-2021 14:48:37 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[30-Apr-2021 14:48:39 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[30-Apr-2021 15:08:22 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[30-Apr-2021 15:08:23 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /usr/local/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /usr/local/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /usr/local/sitepad/editor/site-inc/functions.php(6736): list_files('/home/raisiyks/...', 100, Array)
+#2 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#7 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#8 {main}
+  thrown in /usr/local/sitepad/editor/site-admin/includes/file.php on line 168
+[01-May-2021 20:34:08 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /usr/local/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /usr/local/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /usr/local/sitepad/editor/site-inc/functions.php(6736): list_files('/home/raisiyks/...', 100, Array)
+#2 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#7 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#8 {main}
+  thrown in /usr/local/sitepad/editor/site-admin/includes/file.php on line 168
+[01-May-2021 20:34:08 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[01-May-2021 20:44:02 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[01-May-2021 20:44:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#8 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#9 {main}
+  thrown in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[01-May-2021 20:44:02 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[02-May-2021 15:24:26 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /usr/local/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /usr/local/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /usr/local/sitepad/editor/site-inc/functions.php(6736): list_files('/home/raisiyks/...', 100, Array)
+#2 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#7 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#8 {main}
+  thrown in /usr/local/sitepad/editor/site-admin/includes/file.php on line 168
+[02-May-2021 15:24:27 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[03-May-2021 10:40:33 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[03-May-2021 10:40:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#8 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#9 {main}
+  thrown in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[03-May-2021 10:40:33 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[03-May-2021 15:32:54 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /usr/local/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /usr/local/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /usr/local/sitepad/editor/site-inc/functions.php(6736): list_files('/home/raisiyks/...', 100, Array)
+#2 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#7 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#8 {main}
+  thrown in /usr/local/sitepad/editor/site-admin/includes/file.php on line 168
+[03-May-2021 15:32:54 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[03-May-2021 15:32:59 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[03-May-2021 15:33:40 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[03-May-2021 17:20:04 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[03-May-2021 17:20:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#8 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#9 {main}
+  thrown in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[03-May-2021 17:20:04 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 07:11:32 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /usr/local/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /usr/local/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /usr/local/sitepad/editor/site-inc/functions.php(6736): list_files('/home/raisiyks/...', 100, Array)
+#2 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#7 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#8 {main}
+  thrown in /usr/local/sitepad/editor/site-admin/includes/file.php on line 168
+[04-May-2021 07:11:32 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 07:39:38 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): Failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[04-May-2021 07:39:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php:363
+Stack trace:
+#0 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(326): PagelayerUpdateChecker_3_2->getPluginHeader()
+#1 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(375): PagelayerUpdateChecker_3_2->getInstalledVersion()
+#2 /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php(1357): PagelayerUpdateChecker_3_2->checkForUpdates()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): Pagelayer_PucScheduler_3_2->maybeCheckForUpdates()
+#4 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#5 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#6 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('check_plugin_up...', Array)
+#7 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#8 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#9 {main}
+  thrown in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[04-May-2021 07:39:38 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 08:47:35 UTC] PHP Fatal error:  Uncaught TypeError: closedir(): Argument #1 ($dir_handle) must be of type resource or null, bool given in /usr/local/sitepad/editor/site-admin/includes/file.php:168
+Stack trace:
+#0 /usr/local/sitepad/editor/site-admin/includes/file.php(168): closedir(false)
+#1 /usr/local/sitepad/editor/site-inc/functions.php(6736): list_files('/home/raisiyks/...', 100, Array)
+#2 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(286): wp_privacy_delete_old_export_files()
+#3 /usr/local/sitepad/editor/site-inc/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /usr/local/sitepad/editor/site-inc/plugin.php(531): WP_Hook->do_action(Array)
+#5 /usr/local/sitepad/editor/cron.php(133): do_action_ref_array('wp_privacy_dele...', Array)
+#6 /usr/local/sitepad/editor/site-inc/bootstrap.php(86): include_once('/usr/local/site...')
+#7 /home/raisiyks/public_html/Booking/index.php(28): include_once('/usr/local/site...')
+#8 {main}
+  thrown in /usr/local/sitepad/editor/site-admin/includes/file.php on line 168
+[04-May-2021 08:47:35 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 08:48:31 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 08:49:04 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 08:53:58 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 09:04:44 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 09:13:20 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit2.php on line 85
+[04-May-2021 09:14:02 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit2.php on line 85
+[04-May-2021 09:14:27 UTC] PHP Warning:  Undefined array key "id" in /home/raisiyks/public_html/Booking/submit2.php on line 85
+[04-May-2021 09:14:41 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/shortcodes.php on line 9091
+[04-May-2021 09:19:28 UTC] PHP Warning:  Undefined array key "name0" in /home/raisiyks/public_html/Booking/admin.php on line 50
+[04-May-2021 09:19:28 UTC] PHP Warning:  Undefined array key "surname0" in /home/raisiyks/public_html/Booking/admin.php on line 51
+[04-May-2021 09:19:28 UTC] PHP Warning:  Undefined array key "contact0" in /home/raisiyks/public_html/Booking/admin.php on line 52
+[04-May-2021 13:25:05 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[04-May-2021 13:25:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[07-May-2021 04:59:22 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[07-May-2021 04:59:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[07-May-2021 16:49:38 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[07-May-2021 16:49:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[08-May-2021 13:34:20 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[08-May-2021 13:34:20 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[10-May-2021 19:22:51 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[10-May-2021 19:22:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[11-May-2021 10:57:34 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[11-May-2021 10:57:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[12-May-2021 21:13:16 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[12-May-2021 21:13:16 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[13-May-2021 09:07:02 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[13-May-2021 09:07:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[14-May-2021 12:52:28 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[14-May-2021 12:52:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[21-May-2021 07:26:21 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[21-May-2021 07:26:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[21-May-2021 23:17:41 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[21-May-2021 23:17:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[24-May-2021 19:46:57 UTC] PHP Warning:  require_once(/usr/local/sitepad/editor//wp-admin/includes/plugin.php): failed to open stream: No such file or directory in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
+[24-May-2021 19:46:57 UTC] PHP Fatal error:  require_once(): Failed opening required '/usr/local/sitepad/editor//wp-admin/includes/plugin.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /usr/local/sitepad/editor/site-data/plugins/pagelayer-pro/main/plugin-update-checker.php on line 363
